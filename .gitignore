@@ -134,3 +134,4 @@ dmypy.json
 # Dataset
 data/
 grid_new.pkl
+accident_in_grid.pkl
