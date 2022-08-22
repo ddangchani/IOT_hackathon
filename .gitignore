@@ -132,4 +132,7 @@ dmypy.json
 .ipynb_checkpoints/
 
 # Dataset
-data/
+# data/
+
+# bigdata
+grid_new.pkl
