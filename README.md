@@ -24,3 +24,8 @@
 - LSTM-FCN : LSTM-FCN network 모델을 위한 rep
 - AutoEncoder : AutoEncoder 모델을 위한 rep
 
+### 👮‍♂️ Collaborators
+- @ddangchani
+- @birdkang
+- @cheygoon
+- @thiefmouse96
