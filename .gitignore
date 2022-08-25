@@ -132,5 +132,7 @@ dmypy.json
 .ipynb_checkpoints/
 
 # Big Dataset
+.data/
+data/
 grid_new.pkl
 accident_in_grid.pkl
