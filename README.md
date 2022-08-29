@@ -26,5 +26,5 @@
 - [@ddangchani](https://github.com/ddangchani) [@birdkang](https://github.com/birdkang) [@cheygoon](https://github.com/cheygoon) [@thiefmouse96](https://github.com/thiefmouse96)
 
 ### 🥉 결과
-- 전체 팀 중 공동 3위(장려상) 수상(*분석보고서 영역에서 유일하게 수상*)
+- 전체 팀 중 공동 3위(장려상) 수상(*분석보고서 영역에서 유일하게 수상*)
 - Review at Velog : https://velog.io/@ddangchani
