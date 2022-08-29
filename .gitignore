@@ -136,3 +136,7 @@ dmypy.json
 data/
 grid_new.pkl
 accident_in_grid.pkl
+Preprocessing/data/
+Preprocessing/전처리완료/
+.Preprocessing/data/
+.Preprocessing/전처리완료/
